@@ -1,0 +1,4 @@
+# Prompt log
+
+- Request: Complete the VS Code project according to the supplied Beam Designer assignment and rubric, without changing its requirements. Change: created `spec.md`, `AGENTS.md`, `README.md`, `requirements.txt`, `app.py`, and `beam_calculations.py`, including the specified desktop features and validation cases. Worked: both Python files compile, and all five beam-calculation cases match the listed expected values to the stated precision. The Tkinter window could not be opened in this headless runtime because no display is available.
+- Request: Run the Beam Designer and publish it to GitHub as a public repository named `beam-desktop`. Change: verified compilation and all five listed beam-calculation validation cases; launched the Tkinter app successfully. Publication setup is pending GitHub CLI installation and account authentication.
